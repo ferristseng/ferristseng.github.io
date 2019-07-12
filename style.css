@@ -1,0 +1,67 @@
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.25em;
+}
+
+.main {
+  max-width: 800px;
+  margin: 1.25em 1.60em;
+}
+
+.header {
+  margin: 1.25em 0em 1.6em 1em;
+}
+
+.header a, .header a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+
+.name {
+  position: relative;
+  top: -24px;
+  left: -58px;
+  font-size: 36px;
+}
+
+section {
+  margin: 1.25em 0em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 2px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul li, ul ol, figure {
+  margin: 1.0em 0em;
+  line-height: 2em;
+}
+
+h1 {
+  font-size: 1.2em;
+}
+
+h2 {
+  font-size: 1.1em;
+}
+
+h3 {
+  font-size: 1.0em;
+}
+
+h4 {
+  font-size: 0.8em;
+}
+
+h5 {
+  font-size: 0.7em;
+}
+
+h6 {
+  font-size: 0.6em;
+}
+
+p {
+  line-height: 1.75em;
+}
